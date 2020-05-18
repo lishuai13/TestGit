@@ -6,6 +6,7 @@ public class Student {
 
     private String id;
     private String name;
+    private String test;
 
     public String getId() {
         return id;
